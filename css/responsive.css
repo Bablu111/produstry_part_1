@@ -1,0 +1,22 @@
+@media (min-width: 320px) and (max-width: 991px) {
+
+    header .address{
+
+        text-align: center;
+        
+    }
+
+    header .welcome{
+
+        clip-path: none;
+    }
+
+    header .icon{
+        text-align: center;
+    }
+
+
+
+
+
+}
